@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uyWxCwmCvJI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaiky\\source\\repos\\sadd\\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)4\\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaiky\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\Kaiky\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
